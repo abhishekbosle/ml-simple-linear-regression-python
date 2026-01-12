@@ -8,12 +8,12 @@ This project demonstrates the implementation of a Simple Linear Regression model
 
 The project follows a complete data science workflow:
 
-Data loading
-Data cleaning & preprocessing
-Exploratory Data Analysis (EDA)
-Model training
-Model evaluation
-Prediction on new data
+Data loading</br>
+Data cleaning & preprocessing</br>
+Exploratory Data Analysis (EDA)</br>
+Model training</br>
+Model evaluation</br>
+Prediction on new data</br>
 
 📁 Dataset Description
 
